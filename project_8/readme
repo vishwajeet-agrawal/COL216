@@ -1,0 +1,23 @@
+Functions:
+To display states of registers, program address and instruction state and intermediate data transfers.
+
+Switches (from right):
+[0-2]   : program intial adress selection 
+3	: off = register view, on = memory view
+4	: off = data memory view, on = program memory view
+[5-8]	: Select register to display
+13 	: Display mode for LED, off indicates last 16 digits, on indicates first 16 digits (MSB to mid) in 2's complement
+14	: turn off to display program state (i.e. program initial address selection), on to display other data.
+15	: Turn display on/off.
+
+Buttons:
+Right	: Toggle part of data to display on 7 segment display.
+Center	: Reset button
+Up	: Go button
+Left	: Step one button
+
+7 Segment Display:
+Displays data in decimal
+Right most dot indicates sign
+Other dots indicate part of the number being displayed, second from left indicates the most significant part and righmost least significant.
+

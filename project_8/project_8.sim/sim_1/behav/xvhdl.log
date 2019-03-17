@@ -1,0 +1,17 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/dual/cs5170402/project_8/project_8.srcs/sources_1/new/registerfiles.vhd" into library work
+INFO: [VRFC 10-307] analyzing entity registerfiles
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/dual/cs5170402/project_8/project_8.srcs/sim_1/imports/new/progcounter.vhd" into library work
+INFO: [VRFC 10-307] analyzing entity ProgCounter
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/dual/cs5170402/project_8/project_8.srcs/sources_1/new/alu.vhd" into library work
+INFO: [VRFC 10-307] analyzing entity ALU
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/dual/cs5170402/project_8/project_8.srcs/sources_1/imports/new/main.vhd" into library work
+INFO: [VRFC 10-307] analyzing entity main
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/dual/cs5170402/project_8/project_8.srcs/sources_1/imports/new/debounce.vhd" into library work
+INFO: [VRFC 10-307] analyzing entity debounce
+INFO: [VRFC 10-307] analyzing entity clockslower
+INFO: [VRFC 10-307] analyzing entity Binary_To_7Segment
+INFO: [VRFC 10-307] analyzing entity Four7Segment
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/dual/cs5170402/project_8/project_8.srcs/sources_1/imports/new/testbencher.vhd" into library work
+INFO: [VRFC 10-307] analyzing entity testbencher
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/dual/cs5170402/project_8/project_8.srcs/sources_1/new/displayinterface.vhd" into library work
+INFO: [VRFC 10-307] analyzing entity displayinterface

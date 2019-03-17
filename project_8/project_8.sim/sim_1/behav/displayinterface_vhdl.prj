@@ -1,0 +1,11 @@
+# compile vhdl design source files
+vhdl work  "../../../project_8.srcs/sources_1/new/registerfiles.vhd"
+vhdl work  "../../../project_8.srcs/sim_1/imports/new/progcounter.vhd"
+vhdl work  "../../../project_8.srcs/sources_1/new/alu.vhd"
+vhdl work  "../../../project_8.srcs/sources_1/imports/new/main.vhd"
+vhdl work  "../../../project_8.srcs/sources_1/imports/new/debounce.vhd"
+vhdl work  "../../../project_8.srcs/sources_1/imports/new/testbencher.vhd"
+vhdl work  "../../../project_8.srcs/sources_1/new/displayinterface.vhd"
+
+# Do not sort compile order
+nosort
